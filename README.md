@@ -73,3 +73,5 @@ I am a **Full-Stack Software Architect** based in the San Francisco Bay Area, de
 - **Phone:** +1 415-900-3065
 
 *"I take immense pleasure in helping entrepreneurs build the technology they need to run a successful company."*
+
+[![GoatCounter](https://nzouat.goatcounter.com/count?p=/watat83)](https://nzouat.goatcounter.com)
