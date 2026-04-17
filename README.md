@@ -14,7 +14,6 @@ I am a **Full-Stack Software Architect** based in the San Francisco Bay Area, de
 
 - 🤖 **Agentic AI:** Building production-ready RAG platforms and multi-agent systems.
 - ⛓️ **Web3 Expert:** Extensive experience in Solidity, smart contracts, and NFT marketplaces.
-- 🎨 **Cinematic UI:** Advocate for the "Streamflix" aesthetic—high-contrast, high-performance interfaces.
 - 🛠️ **Full-Lifecycle:** From initial UML architecture to global deployment and SEO optimization.
 
 ---
