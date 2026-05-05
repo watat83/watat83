@@ -51,8 +51,8 @@ I am a **Full-Stack Software Architect** based in the San Francisco Bay Area, de
 
 ### 📊 Vital Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=watat83&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Moise's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watat83&layout=compact&theme=dark&hide_border=true" alt="Languages" width="48%" />
+  <img src="https://github-readme-stats-git-masterhstl-p-janes-projects.vercel.app/api?username=watat83&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" alt="Moise's Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterhstl-p-janes-projects.vercel.app/api/top-langs/?username=watat83&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Languages" width="48%" />
 </p>
 
 ---
